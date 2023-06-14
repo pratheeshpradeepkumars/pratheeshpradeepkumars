@@ -1,8 +1,8 @@
 ### Hi there, I'm Pratheesh PS 👋
 
 ##### Experience
-- ⚡ UST Global , Lead Software Engineer, Jan 2023 - Present
-- ⚡ AppViewX , Senior Software Engineer, Front End | Dec 2014 - Jan 2023
+- ⚡ UST Global , Lead Software Engineer | Jan 2023 - Present
+- ⚡ AppViewX , Senior Software Engineer | Dec 2014 - Jan 2023
 - ⚡ Amrita Center for Cyber Security Systems and Networks, Frontend Developer | July 2013 – November 2014
 
 ### Connect with me:
